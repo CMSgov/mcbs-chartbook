@@ -1,3 +1,3 @@
-maggie test  /* Heart Disease */
+maggie test  /* Heart Disease dfgdfg */
 	if ocmyocar = 1 or occhd = 1 or occfail = 1	or ochrtcnd = 1			then heartdis = 1;	/* Yes */
 	else if ocmyocar = 2 and occhd = 2 and occfail = 2 and ochrtcnd = 2	then heartdis = 0;	/* No */
