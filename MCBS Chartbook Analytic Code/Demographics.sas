@@ -1,6 +1,6 @@
 /******************************************************************************************************/
-/*** CODE: Demographics of Medicare Beneficiaries                  				      	            ***/																		
-/*** OBJECTIVE: Create demographic measures using LDS segments                                     ***/
+/*** CODE: Demographics of Medicare Beneficiaries                  				    ***/																		
+/*** OBJECTIVE: Create demographic measures using LDS segments                                      ***/
 /******************************************************************************************************/
 
 data tempf.demographics;
