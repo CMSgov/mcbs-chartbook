@@ -1,0 +1,18 @@
+# Medicare Current Beneficiary Survey (MCBS)
+The Medicare Current Beneficiary Survey (MCBS) is a continuous, multipurpose survey of a nationally representative sample of the Medicare population, conducted by the Office of Enterprise Data and Analytics (OEDA) of the Centers for Medicare & Medicaid Services (CMS) through a contract with NORC at the University of Chicago. The central goals of the MCBS are to determine expenditures and sources of payment for all services used by Medicare beneficiaries, including co-payments, deductibles, and non-covered services; to ascertain all types of health insurance coverage and relate coverage to sources of payment; and to trace outcomes over time, such as changes in health status and spending down to Medicaid eligibility and the impacts of Medicare program changes on satisfaction with care and usual source of care. The MCBS provides important information on health outcomes and social determinants of health not available in the administrative program data.
+
+
+Annually, CMS releases four sets of files – two Public Use Files (PUFs) and two Limited Data Sets (LDS). The LDS releases are referred to as the Survey File and the Cost Supplement File. The Survey File contains information on beneficiaries’ demographic information, health insurance coverage, self-reported health status and conditions, and responses regarding access to care and satisfaction with care. The Cost Supplement File contains a comprehensive accounting of beneficiaries’ health care use, expenditures, and sources of payment. 
+
+
+# Data Access
+All requested LDS files require a signed LDS Data Use Agreement (DUA) between CMS and the data requestor to ensure that the data remain protected against unauthorized disclosure. LDS requestors must show that their proposed use of the data meets the disclosure provisions for research. The research purpose must relate to projects that could ultimately improve the care provided to Medicare patients and policies that govern the care. This type of research includes projects related to improving the quality of life for Medicare beneficiaries, improving the administration of the Medicare program, cost and payment related projects, and the creation of analytical reports. In addition, these research projects must contribute to generalizable knowledge.
+
+Data users can submit an LDS request via a CMS DUA tracking system, the Enterprise Privacy Policy Engine or EPPE. EPPE can be used to initiate a new LDS DUA request or to amend/update an existing LDS DUA. Questions about LDS files or the process for requesting LDS files can be sent to datauseagreement@cms.hhs.gov. For additional information on data access and the DUA process, including instructions for accessing and using EPPE to make a request, data users can visit the CMS LDS website at https://www.cms.gov/Research-Statistics-Data-and-Systems/Files-for-Order/Data-Disclosures-Data-Agreements/DUA_-_NewLDS. 
+
+The processing of the DUA takes approximately six to eight weeks. Upon approval and payment, CMS releases the data within ten business days, depending on the size of the data request. Data users will receive the data on DVD or via the CMS Virtual Research Data Center (VRDC) for use with SAS® or other statistical software packages; each data release contains multiple files that are linkable through a key identification variable (BASEID). 
+
+Questionnaires, codebooks, and Bibliographies for each survey year are available for download on the CMS MCBS website at https://www.cms.gov/Research-Statistics-Data-and-Systems/Research/MCBS. A link to this documentation is also visible when approved data users log in to the VRDC. 
+
+
+
