@@ -95,27 +95,26 @@ The COVID-19 Facility Beneficiary-Level Supplement segment contains information 
 ### COVID-19 Facility Facility-Level Supplement (FFACCVFL)
 The COVID-19 Facility Facility-Level Supplement segment contains COVID-19 related information collected in the FC section in Fall 2021 and Winter 2022, including telehealth services provided, suspension of in-person services, prevention activities, prospective vaccination policies for staff and residents, personnel changes, mental health services provided, and social/recreational services provided.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Cost Supplement File 
+### Dental Utilization Events (DUE) 
+This file contains individual dental events for the MCBS population. The unit of observation is a single visit to the dentist, at which time a variety of services, including cleaning, x-rays, and an exam might be rendered. Most of the information on this segment is survey-reported from the Community Questionnaire. There is no survey-reported information from the Facility Instrument on this segment.
+
+Medicare does not cover most dental procedures or supplies, like cleanings, fillings, dentures, or other dental devices. Medicare Part A will pay for certain dental services that are delivered in the hospital. The few claims that are used on this segment are from Part A claims for qualifying procedures. 
+### Facility Events (FAE)
+This segment includes individual facility events for the MCBS population recorded during a Facility interview. There is one record for each stay that occurred at least partly in the data year (i.e., the stay begins, ends, or continues through the calendar year). The unit of measurement of facility services is a “stay” in a nursing home or other long-term care facility. Stays are measured in terms of days of residence in that facility. If a person is still in the facility at the end of 2021, the stay is not complete, but all data through the end of 2021 are included.
+### Hearing Utilization Events (HUE)
+This segment contains individual hearing events for the MCBS population. The unit of observation is a single visit to a hearing care provider, such as an ear and nose throat doctor or audiologist. A variety of services may be rendered during a hearing event, including a hearing exam, a hearing aid fitting, repair, or purchase, or hearing rehabilitative services. Note that any hearing aid purchases are classified as OM events rather than HU events, similar to durable medical equipment purchases. Only the HU visits themselves are assigned an HU event type. The majority of the information on this segment is survey-reported from the Community Questionnaire. There is no survey-reported information from the Facility Instrument on this segment.
+
+Medicare does not cover most hearing procedures or supplies, like hearing exams or hearing aids. Medicare Part A will pay for certain hearing services that are delivered in the hospital. The few claims that are used on this segment are from Part A claims for qualifying procedures. 
+### Inpatient Hospital Events (IPE)
+This segment contains individual inpatient hospital events for the MCBS population that are reported during a Community interview or created from Medicare claims data. The unit of observation of inpatient hospital services is a single admission. If the beneficiary was still hospitalized at the end of the year, the inpatient event record is not complete, but all data through the end of 2021 are present.
+### Institutional Events (IUE)
+This segment contains individual short-term facility (usually SNF) stays for the MCBS population that are reported during a Community interview or created from Medicare claims data. The unit of observation is a single admission. If the beneficiary was still in the institution at the end of the year, the institutional event is not complete, but all data for 2021 are present.
+
+
+
+ 
+
 
 
 
