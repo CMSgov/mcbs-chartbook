@@ -110,14 +110,20 @@ Medicare does not cover most hearing procedures or supplies, like hearing exams 
 This segment contains individual inpatient hospital events for the MCBS population that are reported during a Community interview or created from Medicare claims data. The unit of observation of inpatient hospital services is a single admission. If the beneficiary was still hospitalized at the end of the year, the inpatient event record is not complete, but all data through the end of 2021 are present.
 ### Institutional Events (IUE)
 This segment contains individual short-term facility (usually SNF) stays for the MCBS population that are reported during a Community interview or created from Medicare claims data. The unit of observation is a single admission. If the beneficiary was still in the institution at the end of the year, the institutional event is not complete, but all data for 2021 are present.
+### Medical Provider Events (MPE) 
+This segment contains individual events for a variety of medical services, equipment, and supplies reported during a Community interview or created from Medicare claims data and Medicare Part D claims data. The unit of observation is a separate visit, procedure, service, or a supplied item for a survey-reported event. For Medicare claim-only events, it may represent 1) single or multiple visits; 2) single or multiple procedures; 3) single or multiple services; or 4) single or multiple supplies, depending on the number of items pulled together on the bill.
 
-
-
- 
-
-
-
-
+MPE is a combination of medical provider events collected in the Community Questionnaire: medical provider (MP), separately billing doctor (SD), separately billing lab (SL), and other medical expenses (OM). 
+### Outpatient Hospital Events (OPE)
+This segment contains individual outpatient hospital events for the MCBS population reported during a Community interview or created from Medicare claims data. The unit of observation is a separate visit to any part of the outpatient department for a survey-reported event. For Medicare claim-only events, it may represent 1) a single visit; 2) multiple procedures or services within one visit; or 3) multiple visits billed together.
+### Prescribed Medicine Events (PME)
+This segment contains individual outpatient prescribed medicine events for the MCBS population reported during a Community interview or created from Medicare Part D claims data. The unit of observation is a single purchase/fill of a single drug in a single container. The segment also contains the names of the prescribed medicines, the form, and unit of strength.
+### Vision Utilization Events (VUE)
+This segment contains individual vision events for the MCBS population. The unit of observation is a single visit to a vision care provider, such as an optometrist or an optician. A variety of services may be rendered during a vision event, including a vision exam, a contact lens fitting or purchase, an eye glass frame fitting or purchase, and different kinds of surgeries (e.g., cataract, corneal, etc.). Note that any vision purchases (e.g., contacts, eyeglasses, etc.) are classified as OM events rather than VU events, similar to durable medical equipment purchases. Only the VU visits themselves are assigned a VU event type. The majority of the information on this segment is survey-reported from the Community Questionnaire. There is no survey-reported information from the Facility Instrument on this segment.
+### Service Summary (SS)
+This segment provides a summary of the nine individual event files along with home health and hospice utilization, yielding a total of 11 summary records per person.
+### Person Summary (PS)
+This segment provides a summarization of utilization and expenditures by type of service and a summarization of expenditures by payer, yielding one record per person.
 
 # Data Access
 All requested LDS files require a signed LDS Data Use Agreement (DUA) between CMS and the data requestor to ensure that the data remain protected against unauthorized disclosure. LDS requestors must show that their proposed use of the data meets the disclosure provisions for research. The research purpose must relate to projects that could ultimately improve the care provided to Medicare patients and policies that govern the care. This type of research includes projects related to improving the quality of life for Medicare beneficiaries, improving the administration of the Medicare program, cost and payment related projects, and the creation of analytical reports. In addition, these research projects must contribute to generalizable knowledge.
