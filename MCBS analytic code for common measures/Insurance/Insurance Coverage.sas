@@ -10,7 +10,7 @@ run;
 proc sql;
 	create table hitline_inttype as
 		select L.*, R.INT_TYPE
-		from survey.hitline as L left outer join intermed.demographics as R
+		from survey.hitline as L left outer join survey.demo as R
 		on L.BASEID = R.BASEID; 
 quit;
 
