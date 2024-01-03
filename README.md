@@ -7,7 +7,7 @@ The MCBS has been collecting data on Medicare beneficiaries for over 30 years an
 <summary>MCBS PUF Files</summary>
   
 ## MCBS Survey File PUF
-### [2013, 2015-2021 Now Available, 2022 Available Fall 2024](https://www.cms.gov/data-research/statistics-trends-and-reports/mcbs-public-use-file)
+### [Available Survey PUF files](https://www.cms.gov/data-research/statistics-trends-and-reports/mcbs-public-use-file)
 The MCBS Survey File PUF provides a publicly available MCBS file for researchers interested in the health, health care use, access to and satisfaction with care for Medicare beneficiaries, while providing the very highest degree of protection to the Medicare beneficiaries’ protected health information. The MCBS Survey File PUF is prepared from data collected from Medicare beneficiaries living in the community and contains standard demographic variables, such as age categories, race/ethnicity, and gender, as well as information about health conditions, access to and satisfaction with care, type of insurance coverage, and summarized information on some types of utilization. The MCBS Survey File PUF is available free for download, along with its accompanying documentation on the MCBS PUF page. This file is released approximately 3 months after the MCBS Survey File (LDS) is available.
   
 ## MCBS Cost Supplement File PUF
