@@ -60,21 +60,8 @@ The Medicare Current Beneficiary Survey is authorized by section 1875 (42 USC 13
 
 If you have questions or feedback regarding use of the MCBS data, please email us at MCBS@cms.hhs.gov.
 
-
-## Authors and Maintainers
-UPDATE!!! <!--- ### TODO: Update links below -->
-A full list of contributors can be found on [https://github.cms.gov/{{ cookiecutter.project_org }}/{{ cookiecutter.project_repo_name }}/graphs/contributors](https://github.cms.gov/{{ cookiecutter.project_org }}/{{ cookiecutter.project_repo_name }}/graphs/contributors).
-
-## Public domain
-
-This project is licensed within in the public domain within the United States,
-and copyright and related rights in the work worldwide are waived through the
-[CC0 1.0 Universal public domain
-dedication](https://creativecommons.org/publicdomain/zero/1.0/).
-
-All contributions to this project will be released under the CC0 dedication. By
-submitting a pull request or issue, you are agreeing to comply with this waiver
-of copyright interest.
+## Core Team
+A full list of contributors can be found on [https://github.cms.gov/S1C3/MCBS/graphs/contributors](https://github.cms.gov/S1C3/MCBS/graphs/contributors).
 
 ## Policies
 
@@ -111,3 +98,13 @@ If you have other cybersecurity related questions, please contact us at
 [csirc@hhs.gov](mailto:csirc@hhs.gov).
 
 
+## Public domain
+
+This project is licensed within in the public domain within the United States,
+and copyright and related rights in the work worldwide are waived through the
+[CC0 1.0 Universal public domain
+dedication](https://creativecommons.org/publicdomain/zero/1.0/).
+
+All contributions to this project will be released under the CC0 dedication. By
+submitting a pull request or issue, you are agreeing to comply with this waiver
+of copyright interest.
