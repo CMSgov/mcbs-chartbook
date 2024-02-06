@@ -12,7 +12,17 @@ We encourage you to read this project's CONTRIBUTING policy (you are here), its
 [LICENSE](LICENSE.md), and its [README](README.md).
 
 ## Getting Started
-<!--- ### TODO: -->
+CMS provides users with multiple ways to access MCBS data:
+■ MCBS data are made available via two annual Limited Data Set (LDS) releases and Public Use Files (PUFs). 
+■ The MCBS LDS files require that users pay an administrative processing fee and require a DUA
+■ Requests for the MCBS LDS files must be made through the CMS Data Use Agreement (DUA) tracking
+system known as the Enterprise Privacy Policy Engine (EPPE). EPPE can be used to initiate a new LDS
+DUA request or to amend/update an existing LDS DUA.
+■ Upon request and formal approval, CMS releases the data on DVD or via the CMS Virtual Research Data
+Center (VRDC). Each data release contains multiple data sets that are linkable through a key
+identification variable (BASEID).
+■ In addition to the LDS files, MCBS data are made available to users through PUFs.
+■ The MCBS PUFs are free and available for download on the CMS website. 
 
 ### Building dependencies
 
