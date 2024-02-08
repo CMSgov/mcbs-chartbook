@@ -23,6 +23,8 @@ Center (VRDC). Each data release contains multiple data sets that are linkable t
 identification variable (BASEID).
 * In addition to the LDS files, MCBS data are made available to users through PUFs.
 * The MCBS PUFs are free and available for download on the CMS website. 
+* SAS codes from GitHub can be copied into SAS. Libname statement should be modified to point to the 
+  data library before running the code. 
 
 ### Building dependencies
 Team -- Add info here
