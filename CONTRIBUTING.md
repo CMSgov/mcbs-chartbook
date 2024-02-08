@@ -22,16 +22,18 @@ DUA request or to amend/update an existing LDS DUA.
 Center (VRDC). Each data release contains multiple data sets that are linkable through a key
 identification variable (BASEID).
 * In addition to the LDS files, MCBS data are made available to users through PUFs.
-* The MCBS PUFs are free and available for download on the CMS website. 
-* SAS codes from GitHub can be copied into SAS. Libname statement should be modified to point to the 
-  data library before running the code. 
+* The MCBS PUFs are free and available for download on the CMS website.
+
+Once data has been obtained:
+* SAS code for common measures can be copied from GitHub into SAS. 
+* Libname statement should be modified to point to the data library before running the code. 
 
 ### Building dependencies
-Team -- Add info here
+
 <!--- ### TODO -->
 
 ### Building the Project
-Team -- Add info here
+
 <!--- ### TODO -->
 
 ### Issues
