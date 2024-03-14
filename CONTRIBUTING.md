@@ -27,6 +27,7 @@ identification variable (BASEID).
 Once data has been obtained:
 * SAS code for common measures can be copied from GitHub into SAS. 
 * Libname statement should be modified to point to the data library before running the code. 
+`libname <libref> "path_to_data_library"`
 
 ### Issues
 
