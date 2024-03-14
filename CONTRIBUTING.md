@@ -28,14 +28,6 @@ Once data has been obtained:
 * SAS code for common measures can be copied from GitHub into SAS. 
 * Libname statement should be modified to point to the data library before running the code. 
 
-### Building dependencies
-
-<!--- ### TODO -->
-
-### Building the Project
-
-<!--- ### TODO -->
-
 ### Issues
 
 When creating an issue please try to adhere to the following format:
