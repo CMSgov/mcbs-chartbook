@@ -14,27 +14,20 @@ We encourage you to read this project's CONTRIBUTING policy (you are here), its
 ## Getting Started
 CMS provides users with multiple ways to access MCBS data:
 * MCBS data are made available via two annual Limited Data Set (LDS) releases and Public Use Files (PUFs). 
-* The MCBS LDS files require that users pay an administrative processing fee and require a DUA
-* Requests for the MCBS LDS files must be made through the CMS Data Use Agreement (DUA) tracking
+* The MCBS LDS files require that users pay an administrative processing fee and require a [Data Use Agreement (DUA)](https://www.cms.gov/about-cms/information-systems/privacy/data-use-agreement-dua)
+* [Requests for the MCBS LDS files](https://www.cms.gov/data-research/files-for-order/limited-data-set-lds-files) must be made through the CMS DUA tracking
 system known as the Enterprise Privacy Policy Engine (EPPE). EPPE can be used to initiate a new LDS
 DUA request or to amend/update an existing LDS DUA.
 * Upon request and formal approval, CMS releases the data on DVD or via the CMS Virtual Research Data
 Center (VRDC). Each data release contains multiple data sets that are linkable through a key
 identification variable (BASEID).
 * In addition to the LDS files, MCBS data are made available to users through PUFs.
-* The MCBS PUFs are free and available for download on the CMS website.
+* The MCBS PUFs are free and available for download on the [CMS website](https://www.cms.gov/data-research/statistics-trends-and-reports/mcbs-public-use-file).
 
 Once data has been obtained:
 * SAS code for common measures can be copied from GitHub into SAS. 
 * Libname statement should be modified to point to the data library before running the code. 
-
-### Building dependencies
-
-<!--- ### TODO -->
-
-### Building the Project
-
-<!--- ### TODO -->
+`libname <libref> "path_to_data_library"`
 
 ### Issues
 
