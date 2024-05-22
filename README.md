@@ -61,7 +61,7 @@ The Medicare Current Beneficiary Survey is authorized by section 1875 (42 USC 13
 If you have questions or feedback regarding use of the MCBS data, please email us at MCBS@cms.hhs.gov.
 
 ## Core Team
-A full list of contributors can be found on [https://github.cms.gov/S1C3/MCBS/graphs/contributors](https://github.cms.gov/S1C3/MCBS/graphs/contributors).
+A full list of contributors can be found on [https://github.com/CMSgov/mcbs-chartbook/graphs/contributors](https://github.com/CMSgov/mcbs-chartbook/graphs/contributors).
 
 ## Policies
 
