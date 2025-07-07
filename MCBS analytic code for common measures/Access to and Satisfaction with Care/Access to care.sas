@@ -23,4 +23,10 @@ data tempf.accesscr;
 	else if hcdelay = 2 							then delaycar = 2;	 /*No*/
 	else                                                 delaycar = 999; /* Undefined */
 
+     /*problem paying bills*/
+     
+    if ( PAYPROB = .  | PAYPROB = .N | 
+	    PAYPROB = .R  | PAYPROB = .D )   			then PROBMED = .;   /* Missing */
+   if PAYPROB = 1	then PROBMED = 1; /*Yes,problem paying medical bills in the last 12 months*/
+   else if PAYPROB in (2, 91)	then PROBMED = 2; /*No problem paying medical bills in the last 12 months*/
 run;     
